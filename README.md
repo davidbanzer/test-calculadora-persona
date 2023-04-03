@@ -1,4 +1,4 @@
-# Pruebas Unitarias Calculadora y Persona
+# Pruebas Unitarias
 En este proyecto se hizo pruebas unitarias para los métodos de una calculadora y de una persona.
 ## Instruciones
 Instalar las dependencias ejecutando el siguiente comando en la raiz del proyecto
